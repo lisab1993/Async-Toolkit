@@ -2,6 +2,10 @@
 
 This workshop has you implement various asynchronous utility functions.
 
+* [Parallel](https://caolan.github.io/async/v3/docs.html#parallel)
+* [map](https://caolan.github.io/async/v3/docs.html#map)
+* [waterfall](https://caolan.github.io/async/v3/docs.html#waterfall)
+
 To complete the workshop, simply fill out the functions in `src/async.js` such that the tests in `spec/async-spec.js` all pass.
 
 You may have CORS issues when trying to run the specs. To get around this, you need to create a server that can serve the files.
