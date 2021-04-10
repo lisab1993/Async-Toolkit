@@ -19,3 +19,7 @@ For python 3, run `python -m http.server`
 Now in your browser, go to `http://localhost:8000/SpecRunner.html?random=false` to run the tests.
 
 Note, your python server may use a different port, for example port 8080 instead of 8000. Adjust the url above so it uses the correct port.
+
+## Hints
+
+When reading up on async, you may have come across Promises and the "async/await" syntax. We will certainly use those throughout the course. However, for many problems it is more appropriate to simply use callback functions. In this lab, callback functions will be enough, so no need to use Promises or async/await.
